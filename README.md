@@ -8,7 +8,7 @@
 <div align="center">
     <img src="./img/py.png" height="30" alt="python logo"  />
     <img width="12" />
-    <img src="./img/html.png" height="30" alt="html logo"  />
+    <img src="./img/html1.png" height="30" alt="html logo"  />
     <img width="12" />
   </div>
 
