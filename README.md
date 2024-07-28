@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/git.gif" />
+  <img src="./img/ani.png" />
 </div>
 
 <h2 align="center">Hi 👋! My name is uasoro.<br />I am a beginner coder.<br /></h2>
