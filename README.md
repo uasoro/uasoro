@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./img/ani.png" />
+  <img src="./img/890daeae8ca11c97db3838f3b144f2d4.jpg" />
 </div>
 
-<h2 align="center">Hi 👋! My name is uasoro.<br />I am a beginner coder.<br /></h2>
+<h2 align="center">Hi 👋! My name is uasoro.<br />I am a beginner coder.<br />I have nothing more to say about myself.<br /><br /></h2>
 
 <h3 align="center">Skills:</h3>
 <div align="center">
@@ -12,10 +12,3 @@
     <img width="12" />
   </div>
 
-<h3 align="center">Contacts:</h3>
-
-<div align="center">
-    <a href="https://t.me/cvvxyq" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-    </a>
-  </div>
