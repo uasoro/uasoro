@@ -2,19 +2,56 @@
   <img src="./img/890daeae8ca11c97db3838f3b144f2d4.jpg" />
 </div>
 
-<h2 align="center">Hi 👋! My name is uasoro.<br />I am a beginner coder.<br />I have nothing more to say about myself.<br /><br /></h2>
+## 🧠 Training AI model... [█████▒▒▒▒▒] 56%
 
-<h3 align="center">🛠️ TOOLS:</h3>
-<p align="center">
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img alt="Arch" src="https://img.shields.io/static/v1?message=Arch%20Linux&logo=arch-linux&label=&color=1793D1&logoColor=white&labelColor=&style=for-the-badge"> 
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
-    <img alt="VSCode" src="https://img.shields.io/static/v1?message=VS%20Code&logo=visual-studio-code&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge"> 
-    <img alt="Obsidian" src="https://img.shields.io/static/v1?message=Obsidian&logo=obsidian&label=&color=7C3AED&logoColor=white&labelColor=&style=for-the-badge"> 
-    <img alt="Figma" src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge"> 
-</p>
+> _> "Machine Learning - 10%. Cat Learning - 90%."_
+
+---
+
+```bash
+# 🚀 Who am I?
+
+$ whoami
+  🧠 Python developer (beginner but ambitious)
+  🛠️ Linux enthusiast (Arch btw 😼)
+  🔒 Interested in AI, cybersecurity and pentesting
+```
+
+```bash
+# 🛠️ Active modules
+
+$ cat /dev/modules
+  🐍 Core Module: Python
+  💻 AI Engine: TensorFlow | PyTorch
+  🛠️ Console Interface: Linux Terminal
+  🐱 Personality Module: CatDev (prototype v0.1)
+```
+
+```bash
+# 🛠️ Skills and Tools
+
+$ cat skills/tools
+  [Languages] : Python, HTML, CSS, JavaScript
+  [Tools]     : VSCode, Figma, Obsidian
+  [Linux]     : Arch, Manjaro, EndeavourOS, Debian
+```
+
+```bash
+# 🧠 What do I want to learn?
+
+$ todo list
+  🔧 Developing and training your own AI
+  🛠️ Study pentesting and cybersecurity
+  💡 Developing scripts, web applications and interfaces
+```
+
+---
+
+```bash
+> Status: Learning AI. Improving Code. Finding Cats...
+
+      |\      _,,,---,,_
+ZZZzz /,`.-'`'    -.  ;-;;,_
+     |,4-  ) )-,_. ,\ (  `'-'
+    '---''(_/--'  `-'\_) 
+```
