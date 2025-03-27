@@ -17,7 +17,7 @@ $ whoami
 # 🛠️ Skills and Tools
 
 $ cat skills/tools
-  [Languages] : Python, HTML, CSS, JavaScript
+  [Languages] : Python, HTML, CSS
   [Learning]  : JavaScript, Rust
   [Tools]     : VSCode, Figma, Obsidian
   [Linux]     : Arch, Manjaro, EndeavourOS, Debian
